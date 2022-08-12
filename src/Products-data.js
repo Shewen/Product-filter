@@ -3,10 +3,10 @@ import Categories from "./components/categories/Categories";
 export const products = [
     {
         id: 1,
-        title:"Gown product" ,
+        title:"Phone product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p5.jpg"
+        img:"/assets/p334.jpg"
 
     },
 
@@ -15,7 +15,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:20.99 ,
-        img:"/assets/p7.jpg"
+        img:"/assets/p77.jpg"
 
     },
 
@@ -24,7 +24,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:12.50 ,
-        img:"/assets/p8.jpg"
+        img:"/assets/p88.jpg"
 
     },
 
@@ -33,7 +33,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p9.jpg"
+        img:"/assets/p99.jpg"
 
     },
 
@@ -42,7 +42,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p10.jpg"
+        img:"/assets/p100.jpg"
 
     },
 
@@ -51,7 +51,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p11.jpg"
+        img:"/assets/p111.jpg"
 
     },
 
@@ -60,7 +60,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p12.jpg"
+        img:"/assets/p112.jpg"
 
     },
 
@@ -69,7 +69,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p13.jpg"
+        img:"/assets/p113.jpg"
 
     },
 
@@ -78,7 +78,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p14.jpg"
+        img:"/assets/p114.jpg"
 
     },
 
@@ -87,7 +87,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p15.jpg"
+        img:"/assets/p115.jpg"
 
     },
 
@@ -96,7 +96,7 @@ export const products = [
         title:"Gown product" ,
         Categories:"gown" ,
         price:23.56 ,
-        img:"/assets/p5.jpg"
+        img:"/assets/p44.jpg"
 
     },
 

@@ -4,7 +4,7 @@ import "./Product.css"
 
 const Product = ({img, price, title}) => {
   return (
-    <div className='product --card'>
+    <div className='product --card --center-all'>
       <img src={img} alt=''/>
       
       <div className='--bg-primary --center-all --p'>
